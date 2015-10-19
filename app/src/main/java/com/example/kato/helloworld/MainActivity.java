@@ -37,8 +37,6 @@ public class MainActivity extends Activity{
     private Button button;
 
     //コメント
-    //コメント２
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
